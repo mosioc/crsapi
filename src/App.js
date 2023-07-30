@@ -1,7 +1,7 @@
 import './App.css';
 import Search from './Components/Search';
 import Imagelist from './Components/ImageList';
-import searchImages from './Components/Api';
+import searchImages from './Api';
 
 function App() {
  
